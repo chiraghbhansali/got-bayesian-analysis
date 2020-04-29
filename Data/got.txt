@@ -1,4 +1,4 @@
-"Character" "AGOT" "ACOK" "ASOS" "AFFC" "ADWD" "Total"
+"Personnage" "Dans.AGOT" "Dans.ACOK" "Dans.ASOS" "Dans.AFFC" "Dans.ADWD" "Chapitres.au.total"
 "Eddard" 15 0 0 0 0 15
 "Catelyn" 11 7 7 0 0 25
 "Sansa" 6 8 7 3 0 24
